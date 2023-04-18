@@ -5,4 +5,4 @@ TEMP=~/.user-temp pip install --user qiskit[visualization] qiskit-machine-learni
 git clone https://gitlab-ce.gwdg.de/lourens.van-niekerk/isc-2023-qml-tutorial.git
 sleep 2
 rm gwdg/setup.sh
-rm -rf gwdg
+rm -rf gwdg/
